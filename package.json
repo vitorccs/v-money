@@ -1,8 +1,12 @@
 {
   "name": "@vitorccs/v-money",
-  "version": "0.8.2",
+  "version": "0.8.3",
   "description": "Vue currency input/directive mask",
   "main": "dist/v-money.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitorccs/v-money"
+  },
   "scripts": {
     "size": "size-limit",
     "upgrade:check": "ncu",
