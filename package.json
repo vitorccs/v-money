@@ -1,6 +1,6 @@
 {
-  "name": "v-money",
-  "version": "0.8.1",
+  "name": "@vitorccs/v-money",
+  "version": "0.8.2",
   "description": "Vue currency input/directive mask",
   "main": "dist/v-money.js",
   "scripts": {
@@ -23,7 +23,9 @@
     "money"
   ],
   "files": [
-    "dist/"
+    "dist/",
+    "src/*.js",
+    "src/*.vue"
   ],
   "size-limit": [
     {
